@@ -1,0 +1,4 @@
+#Thu Oct 27 14:10:16 SGT 2022
+base.0=C\:\\Shawn\\CV---Final-main\\curriculum_vitae\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
